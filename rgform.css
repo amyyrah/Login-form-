@@ -1,0 +1,72 @@
+body{
+margin:0;
+padding: 0;
+font-family:sans-serif;
+background-image: url(background.jpg);
+background-color: navajowhite;
+background-size: cover;
+background-position: center;
+
+}
+
+.sign-up-form{
+width: 300px;
+box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+background:blueviolet;
+padding: 22px;
+margin: 9% auto 0;
+text-align: center;
+background-color: mintcream;
+height: 450px;
+border-radius: 16px;
+
+
+
+}
+.sign-up-form h1{
+
+color: Black;
+margin-bottom: 8px;
+}
+.input-box{
+border-radius: 20px;
+padding: 10px;
+margin: 10px 0;
+width: 80%;
+border: 1px solid #999;
+outline: none;
+}
+button{
+color: black;
+width: 100%;
+padding: 15px;
+border-radius: 20px;
+font-size: 15px;
+margin: 10px 0;
+border: none;
+outline: none;
+cursor: pointer;
+
+}
+.signup-btn{
+
+	background-color: plum;
+
+}
+.Google-btn{
+	background-color: lightpink;
+}
+a{
+	text-decoration: none;
+
+}
+hr{
+	margin-top: 5px;
+	width: 80%;
+}
+.or{
+	background: #fff;
+	width: 50px;
+	margin: -17px auto 10px;
+
+}
